@@ -1,4 +1,9 @@
-### Hi there 👋
+# < Hello world, I am **Ariane** ❤️ /.> 
+
+I'm a software engineer and full-stack developer, welcome to my Github!
+
+This is currently a work in progress, as I set up my personal website and blog to link to it soon.
+
 
 <!--
 **ariane-codes/ariane-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
